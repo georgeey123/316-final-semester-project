@@ -28,8 +28,7 @@ This project aims to develop and evaluate sentiment analysis models for cyberbul
 
 ## Data Collection and Preprocessing
 
-1. Download the dataset from Kaggle https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification and place it in the `root` directory.
-
+1. Use the dataset in the root directory
 2. Specify the path to the dataset in the code
 3. Run the code 
 
